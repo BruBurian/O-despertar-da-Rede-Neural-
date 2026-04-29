@@ -117,9 +117,20 @@ A escolha do modelo depende diretamente do problema a ser resolvido.
 
 ## 📎 Notebook
 
-🔗 *Cole aqui o link do seu Colab/Jupyter*
+🔗 (https://colab.research.google.com/drive/19V7fDl3CJdXca9YkMPAu3jCDkissZWSv#scrollTo=UqRtpxORGGSK)
 
 ---
+
+## Prints
+
+<img width="685" height="1063" alt="image" src="https://github.com/user-attachments/assets/a6d80ac9-74b4-4ad5-86dc-a27a96c83ac4" />
+
+<img width="670" height="1051" alt="image" src="https://github.com/user-attachments/assets/2b941d34-9772-4ed6-bf85-023f123f9ceb" />
+
+<img width="526" height="805" alt="image" src="https://github.com/user-attachments/assets/99061e82-dd8a-4d5f-962c-59582ab3176e" />
+
+<img width="711" height="1116" alt="image" src="https://github.com/user-attachments/assets/d33aba58-0532-46ba-9a2f-5781974c6e1c" />
+
 
 ## ⚙️ Considerações Finais
 
